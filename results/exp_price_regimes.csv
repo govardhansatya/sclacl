@@ -1,0 +1,13 @@
+regime,policy,acc,acc_std,dev,Mops,blackouts,tCLDP,tCLDP_std
+main regime (Table 1 defaults),NAIVE,0.8017,0.0024,2.0,17.060,0.0,2.498,0.008
+main regime (Table 1 defaults),PRICE,0.7949,0.0020,1.0,0.840,0.0,1.260,0.003
+main regime (Table 1 defaults),SCLACL,0.7949,0.0020,1.0,0.840,0.0,1.260,0.003
+tight endurance (E_cyc=2500),NAIVE,0.8017,0.0024,7.0,17.060,0.0,8.744,0.026
+tight endurance (E_cyc=2500),PRICE,0.7948,0.0021,2.0,0.838,0.0,2.520,0.007
+tight endurance (E_cyc=2500),SCLACL,0.7948,0.0021,2.0,0.838,0.0,2.520,0.007
+scarce harvest (mean=0.45),NAIVE,0.6947,0.0061,2.0,12.332,126.0,2.883,0.025
+scarce harvest (mean=0.45),PRICE,0.7860,0.0066,1.0,0.828,10.2,1.274,0.011
+scarce harvest (mean=0.45),SCLACL,0.7865,0.0065,1.0,0.828,10.0,1.273,0.011
+extreme scarcity (E_cyc=200 V=2),NAIVE,0.8017,0.0024,78.0,17.060,0.0,97.429,0.293
+extreme scarcity (E_cyc=200 V=2),PRICE,0.7952,0.0012,23.0,0.838,0.0,28.965,0.045
+extreme scarcity (E_cyc=200 V=2),SCLACL,0.7560,0.0041,5.0,0.170,0.0,6.623,0.036

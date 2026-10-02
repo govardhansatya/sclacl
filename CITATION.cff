@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this code or these results, please cite the paper below."
+title: "SC-LACL: code and results for The Adaptation-Embodied Carbon Paradox"
+license: MIT
+authors:
+  - family-names: Satya
+    given-names: Gadi Govardhan
+    affiliation: "School of Computing, Amrita Vishwa Vidyapeetham"
+  - family-names: Nambakam
+    given-names: Joshitha
+    affiliation: "School of Computing, Amrita Vishwa Vidyapeetham"
+  - family-names: P
+    given-names: Hrudya
+    affiliation: "School of Computing, Amrita Vishwa Vidyapeetham"
+preferred-citation:
+  type: conference-paper
+  title: "The Adaptation-Embodied Carbon Paradox: A Lifetime-Aware Theory of Continual Learning on Wear-Limited Edge Hardware"
+  authors:
+    - family-names: Satya
+      given-names: Gadi Govardhan
+    - family-names: Nambakam
+      given-names: Joshitha
+    - family-names: P
+      given-names: Hrudya
+  collection-title: "Proceedings of the ACM AI Summit 2026 (AI Summit '26)"
+  conference:
+    name: "ACM AI Summit 2026"
+    city: Atlanta
+    region: GA
+    country: US
+  publisher:
+    name: "Association for Computing Machinery"
+  year: 2026
+  doi: "10.1145/3806096.3844884"

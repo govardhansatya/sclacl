@@ -1,0 +1,10 @@
+ablation,acc,Mops,tCLDP
+sparsity topk=0.05,0.792,0.24,1.265
+sparsity topk=0.1,0.794,0.47,1.262
+sparsity topk=0.18,0.795,0.84,1.260
+sparsity topk=0.35,0.797,1.61,1.256
+sparsity topk=1.0,0.799,4.59,1.254
+wear-leveling=True,0.795,0.84,1.260
+wear-leveling=False,0.796,0.83,1.258
+break-even gate=True,0.795,0.84,1.260
+break-even gate=False,0.795,0.84,1.260

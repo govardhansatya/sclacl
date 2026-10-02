@@ -1,0 +1,10 @@
+# datasets are downloaded by code/fetch_data.py, not committed
+data/*
+!data/README.md
+# python / OS / logs
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.log
+.DS_Store
+Thumbs.db
